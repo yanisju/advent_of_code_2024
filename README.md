@@ -16,7 +16,7 @@ python --version
 
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yanisju/advent-of-code-2024.git
+git clone https://github.com/yanisju/advent_of_code_2024
 cd advent-of-code-2024
 ```
 
